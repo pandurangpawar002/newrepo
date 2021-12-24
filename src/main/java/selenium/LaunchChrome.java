@@ -9,7 +9,8 @@ public class LaunchChrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// donek
+		// donekkk
+		
 //ok
 		System.setProperty("webdriver.chrome.driver",
 				"D:\\Atomation\\Selenium jars and drivers\\Chrome 96\\chromedriver.exe");
